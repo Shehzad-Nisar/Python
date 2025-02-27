@@ -2,7 +2,7 @@ set_a = {1, 2, 3, 4, 5}
 set_b = {4, 5, 6, 7, 8}
 
 union_result = set_a.union(set_b)
-print("Union:", union_result)
+print("Union:", union_result) # for union
 
 intersection_result = set_a.intersection(set_b)
 print("Intersection:", intersection_result)
